@@ -17,6 +17,8 @@
 
 [Assista ao video do back-end integrado rodando](https://www.youtube.com/watch?v=kX0do_P3T9E)
 
+## link deploy: https://api-iriscare.azurewebsites.net/swagger-ui/index.html
+
 
 ---
 
