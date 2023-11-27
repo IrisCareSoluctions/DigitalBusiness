@@ -9,7 +9,7 @@
 ----
 # <span style="color: #63C71F;">Pitch</span>
 
-[Assista ao video Pitch](https://youtu.be/0_QOPCaIbMc)
+[Assista ao video Pitch](https://youtu.be/Xke6Jv6ONQ0)
 
 ----
 
